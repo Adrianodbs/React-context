@@ -13,7 +13,7 @@ export const PagamentoProvider = ({ children }) => {
     },
     {
       nome: 'Cartão de Crédito',
-      juros: 1.3,
+      juros: 1.1,
       id: 2
     },
     {
@@ -23,7 +23,7 @@ export const PagamentoProvider = ({ children }) => {
     },
     {
       nome: 'Crediário',
-      juros: 1.5,
+      juros: 1.2,
       id: 4
     }
   ]
